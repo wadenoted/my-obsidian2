@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CHBE470 XD/Course Notes/Course Notes_Text/Course Notes_Text Homepage.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CHBE470 XD/Course Notes/Course Notes_Text/Course Notes_Text Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CHBE470 XD/Course Notes/Course Notes_Text/Course Notes_Text Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CHBE470 XD/Course Notes/Course Notes_Text/Course Notes_Text Homepage.md"
               }
             }
           },
@@ -155,15 +155,15 @@
   },
   "active": "d083ecf643b704b3",
   "lastOpenFiles": [
-    "LICENSE.md",
+    "CHBE470 XD/Course Notes/Course Notes Homepage.md",
+    "CHBE470 XD/CHBE 470 Homepage.md",
     "README.md",
+    "LICENSE.md",
     "Textbook/Textbook PDF/Chapters/Marlin-Ch02 Copy.pdf",
     "Textbook/Textbook PDF/Chapters/Marlin-Ch02.pdf",
     "Textbook/Textbook PDF/Before Text/Marlin-TitlePage.pdf",
     "Textbook/Textbook PDF/MarkdownTextbook.md",
     "Textbook/Textbook PDF/Textbook PDF Homepage.md",
-    "Textbook/Textbook PDF/Entire Book/Marlin-EntireBook.pdf",
-    "CHBE 470 Homepage.md",
-    "Textbook/Textbook PDF/Entire Book/Complete Marlin.pdf"
+    "Textbook/Textbook PDF/Entire Book/Marlin-EntireBook.pdf"
   ]
 }

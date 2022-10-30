@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 # PDFs
 [[1_Introduction to Process Control.pdf |1: Introduction to Process Control]]
 

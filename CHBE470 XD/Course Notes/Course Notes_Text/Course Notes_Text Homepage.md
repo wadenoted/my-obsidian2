@@ -1,3 +1,8 @@
+---
+dg-home: true
+dg-publish: true
+---
+
 [[L1]]
 [[L2]]
 [[L3]]
