@@ -1,0 +1,19 @@
+{
+  "githubRepo": "my-obsiedian2",
+  "githubToken": "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",
+  "githubUserName": "wadenoted",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false
+  }
+}

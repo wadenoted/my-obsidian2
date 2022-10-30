@@ -1,0 +1,11 @@
+{
+  "accentColor": "#f762f9",
+  "theme": "obsidian",
+  "cssTheme": "Pink Topaz",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "hope",
+    "custom-admonitions.7340be"
+  ],
+  "baseFontSize": 17
+}

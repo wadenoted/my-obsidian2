@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "fd5dfcbee5137d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "a073efcb74ba40ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d083ecf643b704b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LICENSE.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a7f09d40ee132aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8537e102f80c644c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c457ad9668bc6f8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18a06a2783bbf1a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba4a5971c696f281",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0b7a07b5afae91c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1896135eb0cba7d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "513e7267a21c03c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7be61b5c651892c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LICENSE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37bb3c0b51cd6990",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LICENSE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "77d975a7a2d3da1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5c14e09892b2d98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LICENSE.md"
+              }
+            }
+          },
+          {
+            "id": "041c730b71f9d909",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "d083ecf643b704b3",
+  "lastOpenFiles": [
+    "Textbook/Textbook PDF/Chapters/Marlin-Ch02 Copy.pdf",
+    "Textbook/Textbook PDF/Chapters/Marlin-Ch02.pdf",
+    "Textbook/Textbook PDF/Before Text/Marlin-TitlePage.pdf",
+    "Textbook/Textbook PDF/MarkdownTextbook.md",
+    "Textbook/Textbook PDF/Textbook PDF Homepage.md",
+    "Textbook/Textbook PDF/Entire Book/Marlin-EntireBook.pdf",
+    "CHBE 470 Homepage.md",
+    "Textbook/Textbook PDF/Entire Book/Complete Marlin.pdf",
+    "Textbook/Textbook PDF/Chapters/Marlin-Ch03.pdf",
+    "Textbook/Textbook PDF/Chapters/Marlin-Ch01.pdf"
+  ]
+}

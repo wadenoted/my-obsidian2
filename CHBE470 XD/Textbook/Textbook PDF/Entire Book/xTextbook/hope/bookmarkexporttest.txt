@@ -1,0 +1,52 @@
+﻿process control cover; 1
+Marlin - Process Control; 2
+	Cover; 2
+	About the Author; 6
+	Preface; 7
+	Contents; 11
+	Symbols and Acronyms; 24
+	Quick Reference Guide; 30
+	PART I INTRODUCTION; 33
+	Chapter 1 Introduction to Process Control; 35
+	Chapter 2 Control Objectives and Benefits; 51
+	PART II PROCESS DYNAMICS; 76
+	Chapter 3 Mathematical Modeling Principles; 80
+	Chapter 4 Modeling and Analysis for Process Control; 127
+	Chapter 5 Dynamic Behavior of Typical Process Systems; 164
+	Chapter 6 Empirical Model Identification; 204
+	PART III FEEDBACK CONTROL; 234
+	Chapter 7 The Feedback Loop; 237
+	Chapter 8 The PID Algorithm; 265
+	Chapter 9 PID Controller Tuning for Dynamic Performance; 292
+	Chapter 10 Stability Analysis and Controller Tuning; 327
+	Chapter 11 Digital Implementation of Process Control; 380
+	Chapter 12 Practical Application of Feedback Control; 403
+	Chapter 13 Performance of Feedback Control Systems; 431
+	PART IV ENHANCEMENTS TO SINGLE-LOOP PID FEEDBACK CONTROL; 474
+	Chapter 14 Cascade Control; 478
+	Chapter 15 Feedforward Control; 504
+	Chapter 16 Adapting Single-Loop Control Systems for Nonlinear Processes; 531
+	Chapter 17 Inferential Control; 554
+	Chapter 18 Level and Inventory Control; 579
+	Chapter 19 Single-Variable Model Predictive Control; 601
+	PART V MULTIVARIABLE CONTROL; 633
+	Chapter 20 Multiloop Control - Effects of Interaction; 636
+	Chapter 21 Multiloop Control - Performance Analysis; 678
+	Chapter 22 Variable-Structure and Constraint Control; 720
+	Chapter 23 Centralized Multivariable Control; 741
+	Chapter 24 Process Control Design - Definition and Decisions; 778
+	Chapter 25 Process Control Design - Managing the Design Procedure; 831
+	Chapter 26 Continual Improvement; 871
+	Appendix A Process Control Drawings; 900
+	Appendix B Integrating Factor; 906
+	Appendix C Chemical Reactor Modeling and Analysis; 908
+	Appendix D Approximate Dynamic Models; 920
+	Appendix E Determining Controller Contants to Satisfy; 926
+	Appendix F Discrete Models for Digital Control; 932
+	Appendix G Guide to Selected Process Examples; 936
+	Appendix H Partial Fractions and Frequency Response; 939
+	Appendix I Process Examples of Parallel Systems; 946
+	Appendix J Process Control Case Study - Two Product Distillation; 955
+	Appendix K Process Control Case Study - Fired Heater; 967
+	Appendix L Analysis of Digital Control Systems; 979
+	Index; 1009

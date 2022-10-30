@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachmentz",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "userIgnoreFilters": [
+    "Textbook/Textbook PDF/Entire Book/xTextbook/testz/"
+  ],
+  "newFileLocation": "current",
+  "useTab": false
+}

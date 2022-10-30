@@ -1,0 +1,66 @@
+{
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "165, 243, 155",
+      "icon": {
+        "type": "obsidian",
+        "name": "uppercase-lowercase-a"
+      },
+      "command": true,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "eqn": {
+      "type": "eqn",
+      "color": "195, 70, 70",
+      "icon": {
+        "type": "octicons",
+        "name": "number"
+      },
+      "command": false,
+      "title": "Eqn",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "mathz": {
+      "type": "mathz",
+      "color": "73, 163, 208",
+      "icon": {
+        "name": "calculator",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "math",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "9.0.5",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.7340be"
+}
