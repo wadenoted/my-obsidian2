@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,6 +155,8 @@
   },
   "active": "d083ecf643b704b3",
   "lastOpenFiles": [
+    "LICENSE.md",
+    "README.md",
     "Textbook/Textbook PDF/Chapters/Marlin-Ch02 Copy.pdf",
     "Textbook/Textbook PDF/Chapters/Marlin-Ch02.pdf",
     "Textbook/Textbook PDF/Before Text/Marlin-TitlePage.pdf",
@@ -162,8 +164,6 @@
     "Textbook/Textbook PDF/Textbook PDF Homepage.md",
     "Textbook/Textbook PDF/Entire Book/Marlin-EntireBook.pdf",
     "CHBE 470 Homepage.md",
-    "Textbook/Textbook PDF/Entire Book/Complete Marlin.pdf",
-    "Textbook/Textbook PDF/Chapters/Marlin-Ch03.pdf",
-    "Textbook/Textbook PDF/Chapters/Marlin-Ch01.pdf"
+    "Textbook/Textbook PDF/Entire Book/Complete Marlin.pdf"
   ]
 }
